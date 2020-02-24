@@ -1,0 +1,568 @@
+Station,Latitude,Longitude,Temperature,Humidity,Temperature Min,Temperature Max,Wind Speed,Cloudines,Timezone,Latitude Division
+George Town,5.41,100.34,82.27,74,82.0,82.4,8.05,20,28800,Tropic_Cancer
+Hobart,-42.88,147.33,52.84,93,48.99,55.4,2.24,6,39600,Southern_Temperate
+Mataura,-46.19,168.86,57.0,80,57.0,57.0,3.0,100,46800,Southern_Temperate
+Atuona,-9.8,-139.03,81.23,80,81.23,81.23,13.0,32,-34200,Tropic_Capricorn
+Pelym,61.01,62.0,23.49,94,23.49,23.49,11.45,100,18000,Northern Temperate
+Champerico,14.3,-91.92,87.8,55,87.8,87.8,11.41,40,-21600,Tropic_Cancer
+Hilo,19.73,-155.09,66.2,68,64.99,68.0,4.7,90,-36000,Tropic_Cancer
+Houma,29.6,-90.72,69.98,88,68.0,73.0,9.17,75,-21600,Northern Temperate
+Ancud,-41.87,-73.82,60.8,72,60.8,60.8,3.36,90,-10800,Southern_Temperate
+Rikitea,-23.12,-134.97,79.52,64,79.52,79.52,6.06,45,-32400,Tropic_Capricorn
+Cherskiy,68.75,161.3,-26.75,87,-26.75,-26.75,4.88,32,39600,Arctic
+Chokurdakh,70.63,147.92,-23.94,95,-23.94,-23.94,5.53,37,39600,Arctic
+Camacha,33.08,-16.33,65.39,82,64.4,66.2,16.11,20,0,Northern Temperate
+Ushuaia,-54.8,-68.3,45.39,75,44.6,46.4,34.45,75,-10800,Southern_Temperate
+Vaini,-21.2,-175.2,77.0,100,77.0,77.0,3.36,20,46800,Tropic_Capricorn
+Kruisfontein,-34.0,24.73,61.09,72,61.09,61.09,6.96,0,7200,Southern_Temperate
+Yellowknife,62.46,-114.35,-16.85,68,-18.4,-14.01,5.82,20,-25200,Northern Temperate
+Nuuk,64.18,-51.72,15.8,66,15.8,15.8,13.87,75,-10800,Northern Temperate
+Kapaa,22.08,-159.32,64.63,93,64.4,64.99,4.7,20,-36000,Tropic_Cancer
+Thompson,55.74,-97.86,1.4,64,1.4,1.4,8.05,75,-21600,Northern Temperate
+Caernarfon,53.14,-4.27,46.02,70,42.01,48.2,20.8,100,0,Northern Temperate
+Upernavik,72.79,-56.15,-19.48,82,-19.48,-19.48,0.85,32,-10800,Arctic
+Cabo San Lucas,22.89,-109.91,69.62,72,66.2,73.0,4.7,75,-25200,Tropic_Cancer
+Rawson,-43.3,-65.1,60.96,66,60.96,60.96,30.29,87,-10800,Southern_Temperate
+Port Elizabeth,-33.92,25.57,68.0,68,68.0,68.0,6.93,0,7200,Southern_Temperate
+Arai,37.02,138.25,33.01,84,33.01,33.01,2.84,13,32400,Northern Temperate
+Craig,40.52,-107.55,20.86,58,15.01,24.8,14.99,90,-25200,Northern Temperate
+Ahmadpur Sial,30.68,71.75,69.8,68,69.8,69.8,4.56,14,18000,Northern Temperate
+Iztapa,13.93,-90.71,89.6,59,89.6,89.6,9.17,75,-21600,Tropic_Cancer
+Beloha,-25.17,45.05,72.23,88,72.23,72.23,15.03,99,10800,Southern_Temperate
+Esperance,-33.87,121.9,66.2,82,66.2,66.2,14.99,97,28800,Southern_Temperate
+Busselton,-33.65,115.33,66.83,51,64.99,69.01,16.17,26,28800,Southern_Temperate
+Brekstad,63.69,9.67,30.22,100,28.0,34.0,3.36,75,3600,Northern Temperate
+Hermanus,-34.42,19.23,73.47,68,69.01,79.0,8.01,0,7200,Southern_Temperate
+Pangnirtung,66.15,-65.71,-25.6,74,-25.6,-25.6,1.14,75,-18000,Arctic
+Edd,13.93,41.69,87.22,27,87.22,87.22,12.64,0,10800,Tropic_Cancer
+Iqaluit,63.75,-68.51,-18.2,56,-18.4,-18.0,4.85,40,-18000,Northern Temperate
+Karratha,-20.74,116.85,85.59,66,85.59,85.59,13.71,22,28800,Tropic_Capricorn
+Hong Kong,22.29,114.16,68.09,77,64.4,71.01,11.41,40,28800,Tropic_Cancer
+Conde,-7.26,-34.91,87.8,62,87.8,87.8,14.99,75,-10800,Tropic_Capricorn
+Freetown,8.48,-13.23,91.89,44,91.89,91.89,6.08,52,0,Tropic_Cancer
+Bredasdorp,-34.53,20.04,68.49,52,68.0,69.01,19.46,0,7200,Southern_Temperate
+Nikolskoye,59.7,30.79,33.46,69,33.01,33.8,15.66,90,10800,Northern Temperate
+Vestmannaeyjar,63.44,-20.27,35.6,60,35.6,35.6,13.87,75,0,Northern Temperate
+Punta Arenas,-53.15,-70.92,51.78,54,48.2,53.6,31.09,40,-10800,Southern_Temperate
+Arraial do Cabo,-22.97,-42.03,80.6,61,80.6,80.6,12.75,75,-10800,Tropic_Capricorn
+Provideniya,64.38,-173.3,4.21,96,4.21,4.21,6.2,84,43200,Northern Temperate
+Bouaké,7.69,-5.02,96.8,26,96.8,96.8,9.17,81,0,Tropic_Cancer
+Cochrane,51.18,-114.47,24.48,79,21.99,27.0,9.17,90,-25200,Northern Temperate
+Bahía Blanca,-38.72,-62.27,81.01,15,81.01,81.01,22.35,75,-10800,Southern_Temperate
+Dixon,38.45,-121.82,55.04,58,50.0,60.01,12.75,1,-28800,Northern Temperate
+Iguape,-24.71,-47.56,78.01,72,78.01,78.01,5.21,98,-10800,Southern_Temperate
+Bollnäs,61.35,16.39,25.0,62,25.0,25.0,2.35,0,3600,Northern Temperate
+Saint Paul Harbor,57.79,-152.41,30.2,50,30.2,30.2,14.99,75,-32400,Northern Temperate
+Bluff,-46.6,168.33,57.0,80,57.0,57.0,3.0,100,46800,Southern_Temperate
+Meulaboh,4.14,96.13,83.89,69,83.89,83.89,5.12,81,25200,Tropic_Cancer
+Port Blair,11.67,92.75,81.01,74,81.01,81.01,12.19,28,19800,Tropic_Cancer
+Adrar,20.5,-10.07,85.44,10,85.44,85.44,21.9,100,0,Tropic_Cancer
+Merauke,-8.47,140.33,76.44,95,76.44,76.44,5.26,80,32400,Tropic_Capricorn
+Mozarlândia,-14.74,-50.57,86.22,67,86.22,86.22,3.67,98,-10800,Tropic_Capricorn
+Khani,41.96,42.96,53.6,62,53.6,53.6,5.82,90,14400,Northern Temperate
+Butaritari,3.07,172.79,83.16,80,83.16,83.16,17.29,96,43200,Tropic_Cancer
+Benjamín Aceval,-24.97,-57.57,91.4,33,91.4,91.4,9.17,57,-10800,Southern_Temperate
+Kucha,41.73,82.94,39.61,40,39.61,39.61,1.74,81,28800,Northern Temperate
+Smithers,54.78,-127.17,23.0,53,23.0,23.0,3.36,20,-28800,Northern Temperate
+Qaanaaq,77.48,-69.36,-17.39,50,-17.39,-17.39,5.53,0,-14400,Arctic
+Fairbanks,64.84,-147.72,-25.87,73,-29.2,-18.0,3.36,40,-32400,Northern Temperate
+Ahipara,-35.17,173.17,57.99,100,57.99,57.99,12.57,0,46800,Southern_Temperate
+Port Alfred,-33.59,26.89,66.0,86,66.0,66.0,7.85,0,7200,Southern_Temperate
+Cabinda,-5.55,12.2,83.84,80,83.84,83.84,8.59,99,3600,Tropic_Capricorn
+Yulara,-25.24,130.99,80.6,21,80.6,80.6,8.05,17,34200,Southern_Temperate
+Salinópolis,-0.61,-47.36,82.08,80,82.08,82.08,16.02,79,-10800,Tropic_Capricorn
+Vanino,49.09,140.25,9.0,88,9.0,9.0,2.08,44,36000,Northern Temperate
+Ardakān,32.31,54.02,66.2,20,66.2,66.2,9.17,100,12600,Northern Temperate
+Tuatapere,-46.13,167.68,57.0,80,57.0,57.0,3.0,100,46800,Southern_Temperate
+Ittoqqortoormiit,70.48,-21.96,-7.24,57,-7.24,-7.24,6.38,97,-3600,Arctic
+Barrow in Furness,54.12,-3.23,42.78,75,39.0,46.4,31.09,40,0,Northern Temperate
+Lüderitz,-26.65,15.16,71.6,68,71.6,71.6,4.7,1,7200,Southern_Temperate
+San Miguel de Tucumán,-26.82,-65.22,80.6,57,80.6,80.6,3.36,0,-10800,Southern_Temperate
+Langenburg,49.25,9.85,50.29,76,44.01,55.0,10.29,40,3600,Northern Temperate
+Oudtshoorn,-33.59,22.2,62.6,82,62.6,62.6,11.41,0,7200,Southern_Temperate
+Saskylakh,71.92,114.08,13.59,87,13.59,13.59,14.61,100,32400,Arctic
+Douglas,41.3,-96.17,43.03,42,39.2,46.0,6.93,1,-21600,Northern Temperate
+Kaduna State,10.33,7.75,76.66,14,76.66,76.66,7.16,2,3600,Tropic_Cancer
+West Odessa,31.84,-102.5,60.8,31,60.8,60.8,16.11,1,-21600,Northern Temperate
+Sitka,57.05,-135.33,28.78,86,26.6,30.2,6.93,40,-32400,Northern Temperate
+Alice Springs,-23.7,133.88,80.6,34,80.6,80.6,11.41,100,34200,Southern_Temperate
+Souillac,-20.52,57.52,78.42,83,78.01,78.8,3.36,20,14400,Tropic_Capricorn
+Tasiilaq,65.61,-37.64,12.2,47,12.2,12.2,11.41,100,-10800,Arctic
+Marawi City,8.0,124.28,73.99,88,73.99,73.99,8.01,32,28800,Tropic_Cancer
+Sibu,2.3,111.82,75.13,100,75.0,75.2,0.87,75,28800,Tropic_Cancer
+Vila Velha,-20.33,-40.29,82.13,69,82.0,82.4,9.17,75,-10800,Tropic_Capricorn
+Avarua,-21.21,-159.78,80.6,94,80.6,80.6,4.7,100,-36000,Tropic_Capricorn
+Hithadhoo,-0.6,73.08,83.16,79,83.16,83.16,12.77,76,18000,Tropic_Capricorn
+George Town,5.41,100.34,82.27,74,82.0,82.4,8.05,20,28800,Tropic_Cancer
+Hobart,-42.88,147.33,52.84,93,48.99,55.4,2.24,6,39600,Southern_Temperate
+Mataura,-46.19,168.86,57.0,80,57.0,57.0,3.0,100,46800,Southern_Temperate
+Atuona,-9.8,-139.03,81.23,80,81.23,81.23,13.0,32,-34200,Tropic_Capricorn
+Pelym,61.01,62.0,23.49,94,23.49,23.49,11.45,100,18000,Northern Temperate
+Champerico,14.3,-91.92,87.8,55,87.8,87.8,11.41,40,-21600,Tropic_Cancer
+Hilo,19.73,-155.09,66.2,68,64.99,68.0,4.7,90,-36000,Tropic_Cancer
+Houma,29.6,-90.72,69.98,88,68.0,73.0,9.17,75,-21600,Northern Temperate
+Ancud,-41.87,-73.82,60.8,72,60.8,60.8,3.36,90,-10800,Southern_Temperate
+Rikitea,-23.12,-134.97,79.52,64,79.52,79.52,6.06,45,-32400,Tropic_Capricorn
+Cherskiy,68.75,161.3,-26.75,87,-26.75,-26.75,4.88,32,39600,Arctic
+Chokurdakh,70.63,147.92,-23.94,95,-23.94,-23.94,5.53,37,39600,Arctic
+Camacha,33.08,-16.33,65.39,82,64.4,66.2,16.11,20,0,Northern Temperate
+Ushuaia,-54.8,-68.3,45.39,75,44.6,46.4,34.45,75,-10800,Southern_Temperate
+Vaini,-21.2,-175.2,77.0,100,77.0,77.0,3.36,20,46800,Tropic_Capricorn
+Kruisfontein,-34.0,24.73,61.09,72,61.09,61.09,6.96,0,7200,Southern_Temperate
+Yellowknife,62.46,-114.35,-16.85,68,-18.4,-14.01,5.82,20,-25200,Northern Temperate
+Nuuk,64.18,-51.72,15.8,66,15.8,15.8,13.87,75,-10800,Northern Temperate
+Kapaa,22.08,-159.32,64.63,93,64.4,64.99,4.7,20,-36000,Tropic_Cancer
+Thompson,55.74,-97.86,1.4,64,1.4,1.4,8.05,75,-21600,Northern Temperate
+Caernarfon,53.14,-4.27,46.02,70,42.01,48.2,20.8,100,0,Northern Temperate
+Upernavik,72.79,-56.15,-19.48,82,-19.48,-19.48,0.85,32,-10800,Arctic
+Cabo San Lucas,22.89,-109.91,69.62,72,66.2,73.0,4.7,75,-25200,Tropic_Cancer
+Rawson,-43.3,-65.1,60.96,66,60.96,60.96,30.29,87,-10800,Southern_Temperate
+Port Elizabeth,-33.92,25.57,68.0,68,68.0,68.0,6.93,0,7200,Southern_Temperate
+Arai,37.02,138.25,33.01,84,33.01,33.01,2.84,13,32400,Northern Temperate
+Craig,40.52,-107.55,20.86,58,15.01,24.8,14.99,90,-25200,Northern Temperate
+Ahmadpur Sial,30.68,71.75,69.8,68,69.8,69.8,4.56,14,18000,Northern Temperate
+Iztapa,13.93,-90.71,89.6,59,89.6,89.6,9.17,75,-21600,Tropic_Cancer
+Beloha,-25.17,45.05,72.23,88,72.23,72.23,15.03,99,10800,Southern_Temperate
+Esperance,-33.87,121.9,66.2,82,66.2,66.2,14.99,97,28800,Southern_Temperate
+Busselton,-33.65,115.33,66.83,51,64.99,69.01,16.17,26,28800,Southern_Temperate
+Brekstad,63.69,9.67,30.22,100,28.0,34.0,3.36,75,3600,Northern Temperate
+Hermanus,-34.42,19.23,73.47,68,69.01,79.0,8.01,0,7200,Southern_Temperate
+Pangnirtung,66.15,-65.71,-25.6,74,-25.6,-25.6,1.14,75,-18000,Arctic
+Edd,13.93,41.69,87.22,27,87.22,87.22,12.64,0,10800,Tropic_Cancer
+Iqaluit,63.75,-68.51,-18.2,56,-18.4,-18.0,4.85,40,-18000,Northern Temperate
+Karratha,-20.74,116.85,85.59,66,85.59,85.59,13.71,22,28800,Tropic_Capricorn
+Hong Kong,22.29,114.16,68.09,77,64.4,71.01,11.41,40,28800,Tropic_Cancer
+Conde,-7.26,-34.91,87.8,62,87.8,87.8,14.99,75,-10800,Tropic_Capricorn
+Freetown,8.48,-13.23,91.89,44,91.89,91.89,6.08,52,0,Tropic_Cancer
+Bredasdorp,-34.53,20.04,68.49,52,68.0,69.01,19.46,0,7200,Southern_Temperate
+Nikolskoye,59.7,30.79,33.46,69,33.01,33.8,15.66,90,10800,Northern Temperate
+Vestmannaeyjar,63.44,-20.27,35.6,60,35.6,35.6,13.87,75,0,Northern Temperate
+Punta Arenas,-53.15,-70.92,51.78,54,48.2,53.6,31.09,40,-10800,Southern_Temperate
+Arraial do Cabo,-22.97,-42.03,80.6,61,80.6,80.6,12.75,75,-10800,Tropic_Capricorn
+Provideniya,64.38,-173.3,4.21,96,4.21,4.21,6.2,84,43200,Northern Temperate
+Bouaké,7.69,-5.02,96.8,26,96.8,96.8,9.17,81,0,Tropic_Cancer
+Cochrane,51.18,-114.47,24.48,79,21.99,27.0,9.17,90,-25200,Northern Temperate
+Bahía Blanca,-38.72,-62.27,81.01,15,81.01,81.01,22.35,75,-10800,Southern_Temperate
+Dixon,38.45,-121.82,55.04,58,50.0,60.01,12.75,1,-28800,Northern Temperate
+Iguape,-24.71,-47.56,78.01,72,78.01,78.01,5.21,98,-10800,Southern_Temperate
+Bollnäs,61.35,16.39,25.0,62,25.0,25.0,2.35,0,3600,Northern Temperate
+Saint Paul Harbor,57.79,-152.41,30.2,50,30.2,30.2,14.99,75,-32400,Northern Temperate
+Bluff,-46.6,168.33,57.0,80,57.0,57.0,3.0,100,46800,Southern_Temperate
+Meulaboh,4.14,96.13,83.89,69,83.89,83.89,5.12,81,25200,Tropic_Cancer
+Port Blair,11.67,92.75,81.01,74,81.01,81.01,12.19,28,19800,Tropic_Cancer
+Adrar,20.5,-10.07,85.44,10,85.44,85.44,21.9,100,0,Tropic_Cancer
+Merauke,-8.47,140.33,76.44,95,76.44,76.44,5.26,80,32400,Tropic_Capricorn
+Mozarlândia,-14.74,-50.57,86.22,67,86.22,86.22,3.67,98,-10800,Tropic_Capricorn
+Khani,41.96,42.96,53.6,62,53.6,53.6,5.82,90,14400,Northern Temperate
+Butaritari,3.07,172.79,83.16,80,83.16,83.16,17.29,96,43200,Tropic_Cancer
+Benjamín Aceval,-24.97,-57.57,91.4,33,91.4,91.4,9.17,57,-10800,Southern_Temperate
+Kucha,41.73,82.94,39.61,40,39.61,39.61,1.74,81,28800,Northern Temperate
+Smithers,54.78,-127.17,23.0,53,23.0,23.0,3.36,20,-28800,Northern Temperate
+Qaanaaq,77.48,-69.36,-17.39,50,-17.39,-17.39,5.53,0,-14400,Arctic
+Fairbanks,64.84,-147.72,-25.87,73,-29.2,-18.0,3.36,40,-32400,Northern Temperate
+Ahipara,-35.17,173.17,57.99,100,57.99,57.99,12.57,0,46800,Southern_Temperate
+Port Alfred,-33.59,26.89,66.0,86,66.0,66.0,7.85,0,7200,Southern_Temperate
+Cabinda,-5.55,12.2,83.84,80,83.84,83.84,8.59,99,3600,Tropic_Capricorn
+Yulara,-25.24,130.99,80.6,21,80.6,80.6,8.05,17,34200,Southern_Temperate
+Salinópolis,-0.61,-47.36,82.08,80,82.08,82.08,16.02,79,-10800,Tropic_Capricorn
+Vanino,49.09,140.25,9.0,88,9.0,9.0,2.08,44,36000,Northern Temperate
+Ardakān,32.31,54.02,66.2,20,66.2,66.2,9.17,100,12600,Northern Temperate
+Tuatapere,-46.13,167.68,57.0,80,57.0,57.0,3.0,100,46800,Southern_Temperate
+Ittoqqortoormiit,70.48,-21.96,-7.24,57,-7.24,-7.24,6.38,97,-3600,Arctic
+Barrow in Furness,54.12,-3.23,42.78,75,39.0,46.4,31.09,40,0,Northern Temperate
+Lüderitz,-26.65,15.16,71.6,68,71.6,71.6,4.7,1,7200,Southern_Temperate
+San Miguel de Tucumán,-26.82,-65.22,80.6,57,80.6,80.6,3.36,0,-10800,Southern_Temperate
+Langenburg,49.25,9.85,50.29,76,44.01,55.0,10.29,40,3600,Northern Temperate
+Oudtshoorn,-33.59,22.2,62.6,82,62.6,62.6,11.41,0,7200,Southern_Temperate
+Saskylakh,71.92,114.08,13.59,87,13.59,13.59,14.61,100,32400,Arctic
+Douglas,41.3,-96.17,43.03,42,39.2,46.0,6.93,1,-21600,Northern Temperate
+Kaduna State,10.33,7.75,76.66,14,76.66,76.66,7.16,2,3600,Tropic_Cancer
+West Odessa,31.84,-102.5,60.8,31,60.8,60.8,16.11,1,-21600,Northern Temperate
+Sitka,57.05,-135.33,28.78,86,26.6,30.2,6.93,40,-32400,Northern Temperate
+Alice Springs,-23.7,133.88,80.6,34,80.6,80.6,11.41,100,34200,Southern_Temperate
+Souillac,-20.52,57.52,78.42,83,78.01,78.8,3.36,20,14400,Tropic_Capricorn
+Tasiilaq,65.61,-37.64,12.2,47,12.2,12.2,11.41,100,-10800,Arctic
+Marawi City,8.0,124.28,73.99,88,73.99,73.99,8.01,32,28800,Tropic_Cancer
+Sibu,2.3,111.82,75.13,100,75.0,75.2,0.87,75,28800,Tropic_Cancer
+Vila Velha,-20.33,-40.29,82.13,69,82.0,82.4,9.17,75,-10800,Tropic_Capricorn
+Avarua,-21.21,-159.78,80.6,94,80.6,80.6,4.7,100,-36000,Tropic_Capricorn
+Hithadhoo,-0.6,73.08,83.16,79,83.16,83.16,12.77,76,18000,Tropic_Capricorn
+Wuhai,39.66,106.81,31.8,53,31.8,31.8,7.0,0,28800,Northern Temperate
+Mar del Plata,-38.0,-57.56,82.9,50,78.8,84.99,20.8,40,-10800,Southern_Temperate
+Caravelas,-17.71,-39.25,80.42,84,80.42,80.42,18.7,23,-10800,Tropic_Capricorn
+Cuenca,-2.88,-78.98,69.8,56,69.8,69.8,5.82,75,-18000,Tropic_Capricorn
+San Fernando,15.03,120.69,77.23,83,75.2,80.6,2.24,40,28800,Tropic_Cancer
+Pacific Grove,36.62,-121.92,52.39,76,48.99,57.0,3.36,40,-28800,Northern Temperate
+Baringo,0.47,35.97,77.32,36,77.32,77.32,2.75,100,10800,Tropic_Cancer
+Castro,-24.79,-50.01,72.41,92,72.41,72.41,1.99,49,-10800,Southern_Temperate
+Berlevåg,70.86,29.09,27.46,92,26.6,28.4,12.75,75,3600,Arctic
+Kaabong,3.48,34.15,76.73,34,76.73,76.73,7.34,97,10800,Tropic_Cancer
+Mahon,39.89,4.27,57.2,87,57.2,57.2,4.7,60,3600,Northern Temperate
+Yichang,30.71,111.28,63.68,72,63.68,63.68,3.0,93,28800,Northern Temperate
+Barra Patuca,15.8,-84.28,75.99,71,75.99,75.99,2.21,0,-21600,Tropic_Cancer
+The Valley,18.22,-63.06,81.54,65,78.8,84.2,3.36,20,-14400,Tropic_Cancer
+Lhasa,29.65,91.1,21.78,58,21.78,21.78,3.94,61,28800,Northern Temperate
+Shenjiamen,29.96,122.3,56.77,94,56.77,56.77,19.69,3,28800,Northern Temperate
+Hualmay,-11.1,-77.61,83.05,52,83.05,83.05,10.65,20,-18000,Tropic_Capricorn
+Mattru,7.62,-11.83,86.14,55,86.14,86.14,9.15,100,0,Tropic_Cancer
+Myeik,12.43,98.6,78.85,77,78.85,78.85,4.88,44,23400,Tropic_Cancer
+Banda Aceh,5.56,95.32,74.32,95,74.32,74.32,4.79,94,25200,Tropic_Cancer
+Ambon City,-3.7,128.18,81.68,80,81.68,81.68,6.87,63,32400,Tropic_Capricorn
+Bambanglipuro,-7.95,110.28,76.62,88,76.62,76.62,2.04,88,25200,Tropic_Capricorn
+Half Moon Bay,37.46,-122.43,55.24,81,50.0,60.01,5.82,40,-28800,Northern Temperate
+Tocopilla,-22.09,-70.2,74.55,42,74.55,74.55,13.44,0,-10800,Tropic_Capricorn
+Guarapari,-20.67,-40.5,82.13,69,82.0,82.4,9.17,75,-10800,Tropic_Capricorn
+Kirensk,57.79,108.11,10.06,96,10.06,10.06,5.26,98,28800,Northern Temperate
+Fort Nelson,58.81,-122.7,8.6,84,8.6,8.6,2.66,75,-25200,Northern Temperate
+Richards Bay,-28.78,32.04,73.83,66,73.83,73.83,11.23,64,7200,Southern_Temperate
+Rio Grande,-32.03,-52.1,87.8,48,87.8,87.8,16.11,20,-10800,Southern_Temperate
+Ponta do Sol,32.67,-17.1,67.03,82,66.0,69.01,11.41,75,0,Northern Temperate
+Clyde River,70.47,-68.59,-14.8,68,-14.8,-14.8,17.22,20,-18000,Arctic
+Port Hardy,50.7,-127.42,37.4,78,37.4,37.4,3.36,75,-28800,Northern Temperate
+Acaraú,-2.89,-40.12,83.75,77,83.75,83.75,8.77,98,-10800,Tropic_Capricorn
+Jutaí,-5.18,-68.9,84.38,84,84.38,84.38,1.83,75,-14400,Tropic_Capricorn
+Narsaq,60.92,-46.05,19.4,44,19.4,19.4,5.82,20,-10800,Northern Temperate
+Talnakh,69.49,88.4,19.4,92,19.4,19.4,35.79,90,25200,Arctic
+Tahe,52.33,124.73,6.22,88,6.22,6.22,4.83,0,28800,Northern Temperate
+Broken Hill,-31.95,141.43,75.2,50,75.2,75.2,5.82,0,37800,Southern_Temperate
+Kadaya,50.93,119.29,-3.28,94,-3.28,-3.28,0.96,0,32400,Northern Temperate
+Béboto,8.27,16.94,85.5,11,85.5,85.5,4.07,4,3600,Tropic_Cancer
+Boa Vista,2.82,-60.67,91.4,46,91.4,91.4,14.99,75,-14400,Tropic_Cancer
+Bengkulu,-3.8,102.27,73.85,92,73.85,73.85,4.25,71,25200,Tropic_Capricorn
+Tel'ma,52.7,103.71,6.8,92,6.8,6.8,2.24,94,28800,Northern Temperate
+Ilulissat,69.22,-51.1,5.0,60,5.0,5.0,10.29,75,-10800,Arctic
+Pokhara,28.23,83.98,57.56,75,57.56,57.56,4.38,77,20700,Northern Temperate
+Tsiombe,-25.3,45.48,72.84,86,72.84,72.84,14.92,100,10800,Southern_Temperate
+Carhuamayo,-10.92,-76.03,58.73,35,58.73,58.73,1.1,16,-18000,Tropic_Capricorn
+Tiksi,71.69,128.87,-1.62,82,-1.62,-1.62,18.63,100,32400,Arctic
+East London,-33.02,27.91,68.0,77,68.0,68.0,2.24,20,7200,Southern_Temperate
+Lukulu,-14.37,23.24,69.12,96,69.12,69.12,6.08,94,7200,Tropic_Capricorn
+Alofi,-19.06,-169.92,77.0,100,77.0,77.0,3.36,75,-39600,Tropic_Capricorn
+Nanortalik,60.14,-45.24,20.35,58,20.35,20.35,36.13,99,-10800,Northern Temperate
+Chui,-33.7,-53.46,80.2,44,80.2,80.2,6.6,0,-10800,Southern_Temperate
+Oranjestad,12.52,-70.03,84.2,66,84.2,84.2,19.46,75,-14400,Tropic_Cancer
+Hanstholm,57.12,8.62,39.69,86,39.0,39.99,5.01,100,3600,Northern Temperate
+Saldanha,-33.01,17.94,86.0,19,86.0,86.0,10.29,0,7200,Southern_Temperate
+Los Llanos de Aridane,28.66,-17.92,74.16,53,73.0,75.2,10.29,17,0,Northern Temperate
+Palu,-0.89,119.87,67.89,84,67.89,67.89,2.95,87,28800,Tropic_Capricorn
+Katsuura,35.13,140.3,48.27,50,37.0,51.8,6.93,100,32400,Northern Temperate
+Balkanabat,39.51,54.37,54.23,52,54.23,54.23,10.29,75,18000,Northern Temperate
+Sen Moronom,12.45,107.2,63.82,87,63.82,63.82,4.47,55,25200,Tropic_Cancer
+American Fork,40.38,-111.8,33.55,59,24.01,37.99,14.99,1,-25200,Northern Temperate
+Tours,47.38,0.68,50.0,76,50.0,50.0,16.11,90,3600,Northern Temperate
+Tromsø,69.65,18.96,26.92,74,24.8,28.4,11.41,75,3600,Arctic
+Poya,-21.35,165.15,78.3,74,78.3,78.3,5.93,99,39600,Tropic_Capricorn
+Thunder Bay,48.4,-89.32,36.86,55,33.01,39.0,13.87,75,-18000,Northern Temperate
+Mumbai,19.01,72.85,80.6,65,80.6,80.6,5.82,69,19800,Tropic_Cancer
+Lofthus,59.95,10.8,31.78,59,27.0,35.6,5.82,98,3600,Northern Temperate
+Ca Mau,9.18,105.15,73.0,91,73.0,73.0,6.53,91,25200,Tropic_Cancer
+Prijedor,44.98,16.71,42.8,60,42.8,42.8,2.24,67,3600,Northern Temperate
+San Patricio,28.02,-97.52,75.79,78,71.6,78.8,9.17,40,-21600,Northern Temperate
+Hervey Bay,-25.3,152.85,73.8,94,73.4,73.99,6.93,90,36000,Southern_Temperate
+Bartica,6.4,-58.62,84.2,70,84.2,84.2,13.87,75,-14400,Tropic_Cancer
+Severo-Kuril'sk,50.68,156.12,21.24,85,21.24,21.24,13.49,100,39600,Northern Temperate
+Ust-Tsilma,65.44,52.15,30.18,91,30.18,30.18,9.98,100,10800,Northern Temperate
+Rio Branco do Sul,-25.19,-49.31,75.78,69,73.4,79.0,12.75,75,-10800,Southern_Temperate
+Palmar de Varela,10.74,-74.75,86.0,62,86.0,86.0,11.41,20,-18000,Tropic_Cancer
+Saint-Pierre,-21.34,55.48,76.01,78,68.0,78.8,3.36,0,14400,Tropic_Capricorn
+Yangi Marg`ilon,40.43,71.72,48.2,76,48.2,48.2,6.93,100,18000,Northern Temperate
+Samarai,-10.62,150.67,76.21,88,76.21,76.21,2.89,88,36000,Tropic_Capricorn
+Verkhoyansk,67.54,133.38,-20.85,88,-20.85,-20.85,2.57,75,36000,Arctic
+Kandrian,-6.22,149.55,74.8,95,74.8,74.8,3.76,42,36000,Tropic_Capricorn
+Tepetzintla,21.17,-97.83,80.92,67,80.92,80.92,2.39,29,-21600,Tropic_Cancer
+Mount Gambier,-37.83,140.77,57.2,100,57.2,57.2,6.93,90,37800,Southern_Temperate
+Claresholm,50.03,-113.59,24.12,92,21.99,28.99,6.58,90,-25200,Northern Temperate
+Kommunar,59.62,30.39,33.48,69,33.01,33.8,15.66,90,10800,Northern Temperate
+Ayagoz,47.97,80.44,20.41,96,20.41,20.41,2.06,100,21600,Northern Temperate
+Aflou,34.11,2.1,55.85,27,55.85,55.85,8.32,0,3600,Northern Temperate
+Lincheng,19.91,109.69,69.1,90,69.1,69.1,9.95,6,28800,Tropic_Cancer
+Halifax,44.65,-63.57,41.32,78,37.99,44.01,8.05,20,-14400,Northern Temperate
+Gamba,-2.65,10.0,80.74,83,80.74,80.74,6.58,17,3600,Tropic_Capricorn
+Napier City,-39.48,176.92,57.99,96,57.99,57.99,4.0,53,46800,Southern_Temperate
+Grand-Lahou,5.14,-5.02,83.64,81,83.64,83.64,9.08,16,0,Tropic_Cancer
+Paita,-5.09,-81.11,62.6,100,62.6,62.6,11.41,75,-18000,Tropic_Capricorn
+Berdigestyakh,62.1,126.7,3.09,97,3.09,3.09,2.89,92,32400,Northern Temperate
+Goderich,43.75,-81.72,39.94,73,34.0,43.0,2.42,100,-18000,Northern Temperate
+Mtinko,-4.55,34.85,64.09,87,64.09,64.09,3.31,100,10800,Tropic_Capricorn
+Singarāyakonda,15.25,80.03,75.31,83,75.31,75.31,10.29,35,19800,Tropic_Cancer
+La Palma,33.85,-118.05,60.46,71,57.0,64.0,1.97,1,-28800,Northern Temperate
+Lagoa,39.05,-27.98,60.42,81,60.42,60.42,9.75,21,-3600,Northern Temperate
+Lahad Datu,5.03,118.33,74.57,95,74.57,74.57,4.81,4,28800,Tropic_Cancer
+Ostrovnoy,68.05,39.51,22.21,95,22.21,22.21,4.14,100,10800,Arctic
+Kulhudhuffushi,6.62,73.07,81.95,77,81.95,81.95,13.29,4,18000,Tropic_Cancer
+Eunice,30.49,-92.42,64.9,93,60.8,71.6,3.36,90,-21600,Northern Temperate
+Te Anau,-45.42,167.72,52.0,80,52.0,52.0,1.66,100,46800,Southern_Temperate
+Costa Mesa,33.64,-117.92,60.55,71,57.0,64.0,2.35,1,-28800,Northern Temperate
+Zhaoqing,23.05,112.46,69.01,99,69.01,69.01,1.12,3,28800,Tropic_Cancer
+Kollumerzwaag,53.26,6.08,48.67,87,46.99,50.0,29.97,90,3600,Northern Temperate
+Mago,53.25,140.18,1.76,93,1.76,1.76,3.36,82,36000,Northern Temperate
+Tahoua,14.89,5.27,86.0,8,86.0,86.0,16.11,27,3600,Tropic_Cancer
+Sault Ste. Marie,46.52,-84.33,37.4,69,35.6,39.2,10.29,20,-18000,Northern Temperate
+Santiago del Estero,-27.8,-64.26,87.96,31,87.96,87.96,12.17,0,-10800,Southern_Temperate
+Grande Rivière Sud Est,-20.29,57.78,78.4,83,78.01,78.8,3.36,20,14400,Tropic_Capricorn
+Zhigansk,66.77,123.37,-6.72,95,-6.72,-6.72,15.23,100,32400,Arctic
+Taft,31.75,54.21,66.2,20,66.2,66.2,9.17,100,12600,Northern Temperate
+Lorengau,-2.02,147.27,83.89,75,83.89,83.89,7.0,24,36000,Tropic_Capricorn
+Eirunepé,-6.66,-69.87,89.74,56,89.74,89.74,2.57,97,-18000,Tropic_Capricorn
+Sabang,5.89,95.32,83.21,76,83.21,83.21,18.77,86,25200,Tropic_Cancer
+Solnechnyy,50.72,136.63,4.08,89,4.08,4.08,4.14,1,36000,Northern Temperate
+Moose Factory,51.26,-80.61,17.6,78,17.6,17.6,13.87,90,-18000,Northern Temperate
+Rājur,20.12,78.92,80.65,24,80.65,80.65,5.5,87,19800,Tropic_Cancer
+Sechura,-5.56,-80.82,76.33,80,76.33,76.33,13.02,39,-18000,Tropic_Capricorn
+Avera,33.19,-82.53,51.71,93,48.0,55.4,4.7,90,-18000,Northern Temperate
+Salò,45.61,10.53,50.67,71,45.0,55.4,8.05,4,3600,Northern Temperate
+Yining,29.04,114.56,60.75,85,60.75,60.75,2.53,68,28800,Northern Temperate
+Casay,9.82,123.55,74.37,89,74.37,74.37,9.57,20,28800,Tropic_Cancer
+Lázaro Cárdenas,17.96,-102.2,83.26,61,83.26,83.26,8.14,0,-21600,Tropic_Cancer
+Tateyama,34.98,139.87,45.5,50,39.0,51.8,6.93,100,32400,Northern Temperate
+Kansanshi,-12.1,26.43,64.42,97,64.42,64.42,2.44,100,7200,Tropic_Capricorn
+Port-Cartier,50.03,-66.87,28.76,86,28.4,28.99,20.8,90,-18000,Northern Temperate
+Umm Kaddadah,13.6,26.69,72.12,18,72.12,72.12,14.32,39,7200,Tropic_Cancer
+Novobirilyussy,56.95,90.67,20.03,92,20.03,20.03,3.38,100,25200,Northern Temperate
+Athens,37.98,23.72,54.1,71,50.0,57.99,3.6,0,7200,Northern Temperate
+Abhā,18.22,42.51,65.25,68,64.4,66.2,5.82,0,10800,Tropic_Cancer
+Balakovo,52.03,47.8,33.51,98,33.51,33.51,8.3,100,14400,Northern Temperate
+Poro,10.63,124.41,80.28,78,80.01,80.6,13.87,75,28800,Tropic_Cancer
+Sungai Raya,0.7,108.9,74.64,90,74.64,74.64,3.62,100,25200,Tropic_Cancer
+Xinmin,41.99,122.83,33.8,50,33.8,33.8,11.18,100,28800,Northern Temperate
+Nortelândia,-14.45,-56.8,75.72,92,75.72,75.72,3.87,100,-14400,Tropic_Capricorn
+Valparaíso,-33.04,-71.63,61.02,82,59.0,64.4,6.93,90,-10800,Southern_Temperate
+Zanjān,36.67,48.48,37.22,85,37.22,37.22,7.67,100,12600,Northern Temperate
+Bonthe,7.53,-12.51,84.11,66,84.11,84.11,12.75,100,0,Tropic_Cancer
+Iseyin,7.97,3.6,89.98,10,89.98,89.98,5.01,54,3600,Tropic_Cancer
+Rundu,-17.93,19.77,68.0,100,68.0,68.0,5.82,99,7200,Tropic_Capricorn
+Cockburn Town,21.46,-71.14,80.6,61,80.6,80.6,16.11,40,-18000,Tropic_Cancer
+Beringovskiy,63.05,179.32,-7.01,97,-7.01,-7.01,17.31,100,43200,Northern Temperate
+Chlórakas,34.8,32.41,55.36,76,51.01,59.0,6.93,20,7200,Northern Temperate
+Putina,-15.47,-69.43,52.5,60,52.5,52.5,2.89,74,-18000,Tropic_Capricorn
+Grindavik,63.84,-22.43,32.0,62,32.0,32.0,10.29,75,0,Northern Temperate
+Santiago,-33.46,-70.65,76.12,38,75.2,77.0,6.93,0,-10800,Southern_Temperate
+Carros,43.79,7.18,54.57,82,51.01,57.2,2.24,75,3600,Northern Temperate
+Māyakonda,14.28,76.08,76.08,29,76.08,76.08,12.44,3,19800,Tropic_Cancer
+Mujiayingzi,42.12,118.78,26.91,45,26.91,26.91,3.74,100,28800,Northern Temperate
+Atasū,48.68,71.64,12.13,87,12.13,12.13,4.34,89,21600,Northern Temperate
+Tamale,9.4,-0.84,97.48,6,97.48,97.48,8.48,17,0,Tropic_Cancer
+Ossora,59.24,163.07,12.38,93,12.38,12.38,13.8,94,43200,Northern Temperate
+Ola,59.58,151.28,-7.94,81,-7.94,-7.94,6.2,14,39600,Northern Temperate
+Aklavik,68.22,-135.01,-11.2,76,-11.2,-11.2,6.93,75,-25200,Arctic
+Tete,-16.16,33.59,80.6,69,80.6,80.6,10.29,75,7200,Tropic_Capricorn
+Xicoténcatl,23.02,-98.88,81.03,60,80.01,82.99,1.99,40,-21600,Tropic_Cancer
+Namatanai,-3.67,152.43,83.43,78,83.43,83.43,9.78,94,36000,Tropic_Capricorn
+Buur Gaabo,-1.22,41.84,81.27,82,81.27,81.27,13.69,99,10800,Tropic_Capricorn
+Beni,0.5,29.47,71.76,81,71.76,71.76,3.33,42,7200,Tropic_Cancer
+Novoil'insk,51.68,108.71,1.17,87,1.17,1.17,1.59,55,28800,Northern Temperate
+Samfya,-11.36,29.56,66.34,96,66.34,66.34,5.14,100,7200,Tropic_Capricorn
+Viedma,-40.81,-63.0,67.62,44,67.62,67.62,22.03,40,-10800,Southern_Temperate
+State of Airai,7.37,134.52,80.6,74,80.6,80.6,13.87,75,32400,Tropic_Cancer
+Gateshead,54.93,-1.67,41.31,100,39.2,43.0,27.51,40,0,Northern Temperate
+Boyolangu,-8.12,111.89,74.93,92,74.93,74.93,8.34,100,25200,Tropic_Capricorn
+Lloydminster,53.28,-110.0,14.0,66,14.0,14.0,8.05,40,-25200,Northern Temperate
+Diego de Almagro,-26.37,-70.05,85.03,19,85.03,85.03,17.54,0,-10800,Southern_Temperate
+Joshīmath,30.57,79.57,32.5,49,32.5,32.5,6.78,90,19800,Northern Temperate
+Waddān,29.16,16.14,59.0,34,59.0,59.0,5.57,0,7200,Northern Temperate
+Kavieng,-2.57,150.8,84.61,70,84.61,84.61,7.14,57,36000,Tropic_Capricorn
+Turukhansk,65.82,87.98,13.32,94,13.32,13.32,13.62,100,25200,Arctic
+Mopipi,-21.18,24.88,69.3,65,69.3,69.3,14.76,100,7200,Tropic_Capricorn
+Gangavalli,11.5,78.65,68.56,91,68.56,68.56,4.9,83,19800,Tropic_Cancer
+Okhotsk,59.38,143.3,-13.36,69,-13.36,-13.36,8.63,24,36000,Northern Temperate
+Omboué,-1.57,9.26,80.04,84,80.04,80.04,4.38,53,3600,Tropic_Capricorn
+Mnogovershinnyy,53.94,139.92,0.1,89,0.1,0.1,3.53,73,36000,Northern Temperate
+Kamianske,48.51,34.6,33.8,86,33.8,33.8,31.32,75,7200,Northern Temperate
+Moyale,3.52,39.06,82.6,22,82.6,82.6,14.32,94,10800,Tropic_Cancer
+Bathsheba,13.22,-59.52,86.0,66,86.0,86.0,18.34,40,-14400,Tropic_Cancer
+Nishihara,26.18,127.76,68.0,88,68.0,68.0,6.93,75,32400,Northern Temperate
+Mlonggo,-6.53,110.7,84.06,76,84.06,84.06,13.58,64,25200,Tropic_Capricorn
+Cabot,34.97,-92.02,64.71,88,62.01,68.0,6.93,90,-21600,Northern Temperate
+Hasaki,35.73,140.83,36.73,93,35.6,37.4,1.12,75,32400,Northern Temperate
+Boende,-0.22,20.87,73.53,95,73.53,73.53,5.79,94,3600,Tropic_Capricorn
+Takaka,-40.85,172.8,56.21,92,54.0,59.0,1.99,10,46800,Southern_Temperate
+Venado Tuerto,-33.75,-61.97,92.79,20,92.79,92.79,10.96,0,-10800,Southern_Temperate
+Odoyev,53.94,36.69,31.96,85,31.96,31.96,6.46,100,10800,Northern Temperate
+Kavaratti,10.57,72.64,82.22,67,82.22,82.22,4.72,29,19800,Tropic_Cancer
+Melfi,41.0,15.65,49.68,87,46.4,53.6,10.29,5,3600,Northern Temperate
+Oaxaca City,17.05,-96.72,75.2,38,75.2,75.2,5.59,5,-21600,Tropic_Cancer
+Torbay,47.67,-52.73,34.5,81,27.0,41.0,8.05,20,-12600,Northern Temperate
+Chernyshevskiy,63.01,112.47,4.69,97,4.69,4.69,6.67,80,32400,Northern Temperate
+Bairiki Village,1.33,172.98,82.4,83,82.4,82.4,5.82,40,43200,Tropic_Cancer
+Kerema,-7.96,145.78,76.05,85,76.05,76.05,3.06,78,36000,Tropic_Capricorn
+Maunabo,18.01,-65.9,75.74,88,71.01,81.0,6.93,90,-14400,Tropic_Cancer
+Comodoro Rivadavia,-45.87,-67.5,68.0,37,68.0,68.0,10.29,75,-10800,Southern_Temperate
+Vanavara,60.34,102.28,9.48,97,9.48,9.48,5.06,94,25200,Northern Temperate
+Naryan-Mar,67.67,53.09,30.04,96,30.04,30.04,20.04,100,10800,Arctic
+Manicoré,-5.81,-61.3,91.02,56,91.02,91.02,3.6,85,-14400,Tropic_Capricorn
+Nome,64.5,-165.41,7.23,71,6.01,8.6,11.41,90,-32400,Northern Temperate
+Province of Laguna,14.17,121.33,77.61,69,75.0,80.6,6.93,20,28800,Tropic_Cancer
+Petropavlovsk-Kamchatskiy,53.05,158.65,24.8,58,24.8,24.8,6.71,100,43200,Northern Temperate
+Christchurch,-43.53,172.63,59.54,82,55.99,61.0,2.24,88,46800,Southern_Temperate
+Ust-Maya,60.42,134.53,-14.06,99,-14.06,-14.06,2.28,51,32400,Northern Temperate
+Varanasi,25.33,83.0,66.2,82,66.2,66.2,2.24,0,19800,Northern Temperate
+Boshnyakovo,49.63,142.17,13.62,80,13.62,13.62,2.98,0,39600,Northern Temperate
+Andovoranto,-18.95,49.1,75.25,98,75.25,75.25,3.6,94,10800,Tropic_Capricorn
+Sol'tsy,58.12,30.32,31.95,69,31.95,31.95,11.1,51,10800,Northern Temperate
+La Santisima Trinidad,-14.83,-64.9,84.2,58,84.2,84.2,5.82,40,-14400,Tropic_Capricorn
+Sakakah,29.97,40.21,66.2,32,66.2,66.2,8.52,75,10800,Northern Temperate
+Booué,-0.09,11.94,77.04,87,77.04,77.04,2.15,67,3600,Tropic_Capricorn
+Cristalina,-16.77,-47.61,77.31,84,77.31,77.31,4.18,90,-10800,Tropic_Capricorn
+Remígio,-6.93,-35.78,89.6,46,89.6,89.6,11.41,40,-10800,Tropic_Capricorn
+Lavrentiya,65.58,-171.0,0.23,97,0.23,0.23,6.51,94,43200,Arctic
+Araguaína,-7.19,-48.21,89.06,58,89.06,89.06,4.65,40,-10800,Tropic_Capricorn
+Olenegorsk,68.15,33.3,18.48,97,18.48,18.48,1.63,100,10800,Arctic
+New Iberia,30.0,-91.82,67.42,68,62.6,73.0,13.87,90,-21600,Northern Temperate
+Mehamn,71.04,27.85,28.4,86,28.4,28.4,11.41,75,3600,Arctic
+Grand Gaube,-20.01,57.66,78.33,83,78.01,78.8,3.36,20,14400,Tropic_Capricorn
+Balad,34.02,44.15,66.7,55,66.7,66.7,7.81,100,10800,Northern Temperate
+Atambua,-9.11,124.89,75.15,88,75.15,75.15,1.95,16,28800,Tropic_Capricorn
+Vidyayevo,69.32,32.8,28.4,92,28.4,28.4,2.24,75,10800,Arctic
+Tilichiki,60.47,166.1,-5.64,81,-5.64,-5.64,7.94,6,43200,Northern Temperate
+Mandan,46.83,-100.89,29.75,100,28.4,32.0,10.29,20,-21600,Northern Temperate
+Urdoma,61.75,48.54,31.19,97,31.19,31.19,8.68,100,10800,Northern Temperate
+Olafsvik,64.89,-23.71,33.78,68,33.78,33.78,7.52,100,0,Northern Temperate
+Erdenet,49.03,104.08,8.76,96,8.76,8.76,1.92,100,28800,Northern Temperate
+Colac,-38.33,143.58,62.55,90,59.0,66.0,1.99,48,39600,Southern_Temperate
+Oranjemund,-28.55,16.43,79.81,30,79.81,79.81,13.11,0,7200,Southern_Temperate
+Isangel,-19.55,169.27,77.02,82,77.02,77.02,11.03,64,39600,Tropic_Capricorn
+Yatou,37.15,122.38,45.18,98,45.18,45.18,11.25,100,28800,Northern Temperate
+Bad Laasphe,50.93,8.4,46.99,87,44.01,50.0,13.87,75,3600,Northern Temperate
+Honiara,-9.43,159.95,77.0,94,77.0,77.0,2.42,40,39600,Tropic_Capricorn
+Maltahöhe,-24.83,16.98,76.3,46,76.3,76.3,8.3,77,7200,Southern_Temperate
+Arrondissement de Bayonne,43.33,-1.42,51.66,87,50.0,59.0,9.17,90,3600,Northern Temperate
+Knysna,-34.04,23.05,62.6,82,62.6,62.6,11.41,0,7200,Southern_Temperate
+Port-Gentil,-0.72,8.78,86.0,84,86.0,86.0,9.17,20,3600,Tropic_Capricorn
+São João da Barra,-21.64,-41.05,78.71,83,77.0,80.6,2.24,90,-10800,Tropic_Capricorn
+Maiduguri,11.85,13.16,74.08,19,74.08,74.08,11.61,0,3600,Tropic_Cancer
+Omdurman,15.64,32.48,69.8,16,69.8,69.8,12.75,70,7200,Tropic_Cancer
+Yalta,44.5,34.17,34.43,80,34.43,34.43,28.48,80,10800,Northern Temperate
+Jinchang,38.5,102.17,29.62,36,29.62,29.62,3.18,0,28800,Northern Temperate
+Caceres,39.52,-6.37,69.01,46,69.01,69.01,4.16,0,3600,Northern Temperate
+Tingi,-11.3,35.03,71.01,82,71.01,71.01,0.98,100,10800,Tropic_Capricorn
+Paradip,20.32,86.62,70.59,70,70.59,70.59,3.04,33,19800,Tropic_Cancer
+Astoria,46.19,-123.83,43.52,87,39.0,46.99,11.21,40,-28800,Northern Temperate
+San Jose,37.34,-121.89,54.97,81,50.0,60.01,5.82,40,-28800,Northern Temperate
+Coyhaique,-45.58,-72.07,62.6,48,62.6,62.6,9.17,75,-10800,Southern_Temperate
+San Juan,18.47,-66.11,75.2,88,71.01,81.0,6.93,90,-14400,Tropic_Cancer
+Hambantota,6.12,81.12,80.19,84,80.19,80.19,18.23,19,19800,Tropic_Cancer
+Norman Wells,65.28,-126.83,-2.2,77,-2.2,-2.2,8.05,90,-25200,Northern Temperate
+Pitimbu,-7.47,-34.81,87.8,62,87.8,87.8,14.99,75,-10800,Tropic_Capricorn
+Ascension,30.22,-90.9,69.78,73,66.2,73.0,9.17,90,-21600,Northern Temperate
+Statesboro,32.45,-81.78,59.32,72,53.6,64.4,3.74,90,-18000,Northern Temperate
+Mount Isa,-20.73,139.5,78.8,94,78.8,78.8,9.17,90,36000,Tropic_Capricorn
+Yambio,4.57,28.4,84.31,31,84.31,84.31,5.26,26,10800,Tropic_Cancer
+Geraldton,-28.77,114.6,71.6,94,71.6,71.6,6.93,0,28800,Southern_Temperate
+Nabire,-3.37,135.48,71.51,96,71.51,71.51,2.06,99,32400,Tropic_Capricorn
+Yinchuan,38.47,106.27,38.98,40,38.98,38.98,6.96,0,28800,Northern Temperate
+Lompoc,34.64,-120.46,61.29,52,57.0,64.99,17.92,1,-28800,Northern Temperate
+Santa Luzia,-19.77,-43.85,77.0,61,75.2,78.8,5.82,75,-10800,Tropic_Capricorn
+Kampong Thom,12.71,104.89,71.78,37,71.78,71.78,5.5,42,25200,Tropic_Cancer
+Fortuna,40.6,-124.16,46.42,81,44.6,48.0,4.43,1,-28800,Northern Temperate
+Iberia,29.95,-91.75,67.77,68,62.6,73.0,13.87,90,-21600,Northern Temperate
+San Policarpio,12.07,124.56,76.48,81,76.48,76.48,12.48,51,28800,Tropic_Cancer
+Porto Murtinho,-21.7,-57.88,93.72,43,93.72,93.72,9.37,74,-14400,Tropic_Capricorn
+Ayan,56.45,138.17,-1.43,74,-1.43,-1.43,9.19,81,36000,Northern Temperate
+Guntakal,15.17,77.38,74.05,50,74.05,74.05,8.63,12,19800,Tropic_Cancer
+Jánossomorja,47.79,17.14,46.08,61,44.01,48.2,4.7,96,3600,Northern Temperate
+Santa María Xadani,15.93,-96.07,87.8,58,87.8,87.8,7.34,40,-21600,Tropic_Cancer
+Pisco,-13.7,-76.22,75.36,30,71.6,79.0,9.17,20,-18000,Tropic_Capricorn
+Esso,55.93,158.7,-0.94,86,-0.94,-0.94,2.98,100,43200,Northern Temperate
+Norashen,40.0,44.59,44.6,52,44.6,44.6,2.24,21,14400,Northern Temperate
+Hede,33.77,120.25,49.87,91,49.87,49.87,6.89,96,28800,Northern Temperate
+Brigantine,39.41,-74.36,56.28,36,46.99,64.0,6.93,1,-18000,Northern Temperate
+Pana,39.39,-89.08,44.01,93,43.0,44.6,10.29,90,-21600,Northern Temperate
+Shimoda,34.67,138.95,39.81,79,37.0,43.0,11.01,38,32400,Northern Temperate
+Paisley,55.83,-4.43,36.63,93,35.01,37.99,8.05,90,0,Northern Temperate
+Coahuayana Viejo,18.73,-103.68,82.4,48,82.4,82.4,6.17,5,-21600,Tropic_Cancer
+Hentiesbaai,-22.12,14.28,70.0,88,70.0,70.0,1.99,95,7200,Tropic_Capricorn
+Ecatepec de Morelos,19.6,-99.05,76.46,22,69.8,78.8,9.17,5,-21600,Tropic_Cancer
+Burley,42.54,-113.79,33.48,47,32.0,34.0,21.92,1,-25200,Northern Temperate
+Dzhezkazgan,47.78,67.77,12.47,95,12.47,12.47,6.87,78,21600,Northern Temperate
+Khanpur,28.65,70.66,67.28,41,67.28,67.28,2.84,9,18000,Northern Temperate
+Rocha,-34.48,-54.33,85.12,26,85.12,85.12,9.98,0,-10800,Southern_Temperate
+Atar,20.52,-13.05,91.69,10,91.69,91.69,20.42,94,0,Tropic_Cancer
+Flinders,-34.58,150.86,65.59,100,62.6,69.01,6.38,17,39600,Southern_Temperate
+Buala,-8.14,159.59,79.23,82,79.23,79.23,3.96,68,39600,Tropic_Capricorn
+Jumla,29.27,82.18,32.49,83,32.49,32.49,1.5,96,20700,Northern Temperate
+Davila,18.47,120.58,76.64,78,76.64,76.64,13.76,70,28800,Tropic_Cancer
+Mercedes,-34.65,-59.43,84.63,46,82.99,86.0,4.0,0,-10800,Southern_Temperate
+Biltine,14.53,20.92,72.05,18,72.05,72.05,9.66,0,3600,Tropic_Cancer
+Barra de Tecoanapa,16.52,-98.75,91.44,39,91.44,91.44,8.5,0,-21600,Tropic_Cancer
+Departamento de Maldonado,-34.67,-54.92,80.6,47,80.6,80.6,8.05,20,-10800,Southern_Temperate
+Mozambique,-18.25,35.0,69.22,93,69.22,69.22,10.04,100,7200,Tropic_Capricorn
+Bargaal,11.29,51.08,69.46,75,69.46,69.46,5.21,87,10800,Tropic_Cancer
+Awjilah,29.11,21.29,58.64,57,58.64,58.64,11.14,7,7200,Northern Temperate
+Arman',59.7,150.17,-3.57,87,-3.57,-3.57,5.48,58,39600,Northern Temperate
+Uva,56.99,52.19,30.99,92,30.99,30.99,1.99,100,14400,Northern Temperate
+Codajás,-3.84,-62.06,85.06,82,85.06,85.06,3.04,100,-14400,Tropic_Capricorn
+Peniche,39.36,-9.38,61.12,48,54.0,69.8,9.17,0,0,Northern Temperate
+Vanimo,-2.67,141.3,83.01,82,83.01,83.01,13.0,85,36000,Tropic_Capricorn
+Sawtell,-30.38,153.1,67.73,94,66.99,68.0,4.7,75,39600,Southern_Temperate
+Jiuquan,39.74,98.52,29.52,34,29.52,29.52,2.35,26,28800,Northern Temperate
+Vieux-Habitants,16.06,-61.77,84.2,66,84.2,84.2,13.87,0,-14400,Tropic_Cancer
+Brae,60.4,-1.35,38.17,69,37.4,39.2,11.41,100,0,Northern Temperate
+Nay Pyi Taw,19.75,96.13,66.04,41,66.04,66.04,1.34,34,23400,Tropic_Cancer
+Kalmar,56.66,16.36,35.58,69,28.99,39.0,4.7,80,3600,Northern Temperate
+Bjørnevatn,69.67,29.98,30.2,92,30.2,30.2,23.04,90,3600,Arctic
+Mbandaka,0.05,18.26,80.51,70,80.51,80.51,3.13,91,3600,Tropic_Cancer
+Saint-Joseph,-21.37,55.62,75.96,78,68.0,78.8,3.36,0,14400,Tropic_Capricorn
+Vila Franca do Campo,37.72,-25.43,62.6,82,62.6,62.6,9.17,20,-3600,Northern Temperate
+Ilhéus,-14.79,-39.05,84.2,79,84.2,84.2,11.41,75,-10800,Tropic_Capricorn
+Coolum Beach,-26.53,153.1,69.73,98,68.0,71.01,3.94,80,36000,Southern_Temperate
+Walvis Bay,-22.96,14.51,69.91,83,69.8,70.0,4.7,40,7200,Tropic_Capricorn
+Tūkrah,32.53,20.58,57.74,83,57.74,57.74,11.65,36,7200,Northern Temperate
+Nan,18.83,100.67,67.64,53,67.64,67.64,2.19,57,25200,Tropic_Cancer
+Ladybrand,-29.19,27.46,62.64,44,62.64,62.64,3.04,0,7200,Southern_Temperate
+Golden,39.76,-105.22,35.29,27,19.99,41.0,13.87,1,-25200,Northern Temperate
+Ucluelet,48.93,-125.55,40.01,80,37.0,44.01,8.1,75,-28800,Northern Temperate
+Aquidauana,-20.47,-55.79,84.96,75,84.96,84.96,8.21,70,-14400,Tropic_Capricorn
+Brownsville,25.9,-97.5,77.41,61,75.0,80.6,8.05,90,-21600,Northern Temperate
+Shaunavon,49.65,-108.42,21.74,94,21.74,21.74,18.14,100,-21600,Northern Temperate
+Hamm,51.68,7.82,49.89,87,48.99,51.8,24.16,90,3600,Northern Temperate
+Praia,14.92,-23.51,78.8,54,78.8,78.8,14.99,20,-3600,Tropic_Cancer
+Kapuskasing,49.42,-82.43,21.2,67,21.2,21.2,13.87,75,-18000,Northern Temperate
+Yenagoa,4.92,6.26,86.05,65,86.05,86.05,10.96,84,3600,Tropic_Cancer
+Wanning,18.8,110.4,67.32,92,67.32,67.32,2.86,12,28800,Tropic_Cancer
+Canberra,-35.28,149.13,58.69,88,57.0,61.0,2.3,0,39600,Southern_Temperate
+Cabedelo,-6.98,-34.83,87.8,62,87.8,87.8,14.99,75,-10800,Tropic_Capricorn
+Thinadhoo,0.53,72.93,83.07,81,83.07,83.07,14.41,69,18000,Tropic_Cancer
+Mandiana,10.63,-8.68,97.75,12,97.75,97.75,4.12,37,0,Tropic_Cancer
+Mossamedes,-15.2,12.15,80.6,69,80.6,80.6,9.4,94,3600,Tropic_Capricorn
+Katobu,-4.94,122.53,76.37,91,76.37,76.37,1.68,95,28800,Tropic_Capricorn
+Panguna,-6.32,155.48,70.39,96,70.39,70.39,1.48,83,39600,Tropic_Capricorn
+Bayanday,53.07,105.51,-0.27,91,-0.27,-0.27,3.98,38,28800,Northern Temperate
+Oregon City,45.36,-122.61,42.26,80,37.0,46.0,6.93,90,-28800,Northern Temperate
+Tessalit,20.2,1.01,79.72,8,79.72,79.72,10.78,0,0,Tropic_Cancer
+Saint-Quentin,49.85,3.28,51.13,93,48.99,55.0,24.16,90,3600,Northern Temperate
+Parkent,41.29,69.68,48.2,93,48.2,48.2,4.7,83,18000,Northern Temperate
+Warken,49.85,6.09,47.93,81,45.0,51.01,24.16,75,3600,Northern Temperate
+Luebo,-5.35,21.42,76.01,78,76.01,76.01,1.3,58,7200,Tropic_Capricorn
+Seoul,37.57,126.98,41.0,93,37.4,44.6,5.82,90,32400,Northern Temperate
+Korla,41.76,86.15,40.89,86,39.99,42.01,1.99,72,28800,Northern Temperate
+Porto Walter,-8.27,-72.74,93.34,45,93.34,93.34,2.19,64,-18000,Tropic_Capricorn
+Tazovsky,67.47,78.7,20.12,89,20.12,20.12,22.64,92,18000,Arctic
+Ixtapa,20.7,-105.2,77.54,57,77.0,78.01,4.7,40,-21600,Tropic_Cancer
+Linhares,-19.39,-40.07,81.1,73,81.1,81.1,10.4,92,-10800,Tropic_Capricorn
+Tanete,-3.94,119.78,75.49,97,75.49,75.49,1.28,72,28800,Tropic_Capricorn
+Carutapera,-1.2,-46.02,82.83,77,82.83,82.83,12.48,9,-10800,Tropic_Capricorn
+Maţāy,28.42,30.78,54.18,56,54.18,54.18,15.66,66,7200,Northern Temperate
+Barquisimeto,10.07,-69.32,84.2,39,84.2,84.2,8.05,88,-14400,Tropic_Cancer
+Haines Junction,60.75,-137.51,-7.04,93,-7.04,-7.04,4.43,100,-28800,Northern Temperate
+Gawler,-34.6,138.73,64.6,68,61.0,68.0,9.17,0,37800,Southern_Temperate
+Porto-Novo,6.5,2.6,87.8,79,87.8,87.8,12.75,20,3600,Tropic_Cancer
+Jiayuguan City,39.82,98.3,31.33,36,31.33,31.33,4.16,12,28800,Northern Temperate
+Buchanan County,39.65,-94.77,39.63,93,37.99,41.0,16.11,90,-21600,Northern Temperate
+Amahai,-3.33,128.92,81.97,72,81.97,81.97,9.55,40,32400,Tropic_Capricorn
+Codrington,-38.27,141.97,63.97,93,63.97,63.97,6.76,67,39600,Southern_Temperate
+Bykovo,55.64,38.08,35.49,74,35.01,35.6,6.71,80,10800,Northern Temperate
+Lincoln,40.8,-96.67,43.47,52,41.0,46.0,9.17,1,-21600,Northern Temperate
+Huarmey,-10.07,-78.15,86.31,45,86.31,86.31,12.33,11,-18000,Tropic_Capricorn
+Beaverlodge,55.22,-119.44,1.4,77,1.4,1.4,2.06,75,-25200,Northern Temperate
+Newport,51.59,-3.0,48.34,93,46.4,51.01,20.8,90,0,Northern Temperate
+Lungro,39.74,16.12,54.48,74,54.0,55.0,3.65,90,3600,Northern Temperate
+Senanga,-16.12,23.27,69.69,89,69.69,69.69,3.78,100,7200,Tropic_Capricorn
+Lakselv,70.05,24.97,28.36,58,26.01,30.2,31.09,100,3600,Arctic
+Vieste,41.88,16.18,54.46,93,53.01,57.0,6.93,5,3600,Northern Temperate
+Shuangyang,43.52,125.67,14.0,85,14.0,14.0,2.24,100,28800,Northern Temperate
+Manacapuru,-3.3,-60.62,91.4,59,91.4,91.4,6.93,40,-14400,Tropic_Capricorn
+Shawville,45.6,-76.48,47.66,54,46.0,50.0,8.99,75,-18000,Northern Temperate
+Kabalo,-6.05,26.92,70.68,99,70.68,70.68,3.38,100,7200,Tropic_Capricorn
+Labuhan Deli,3.73,98.67,78.8,100,78.8,78.8,4.7,20,25200,Tropic_Cancer
+Deputatsky,69.3,139.9,-23.35,97,-23.35,-23.35,3.04,0,36000,Arctic
+Saint-Paul,-21.01,55.27,75.85,78,68.0,78.8,3.36,90,14400,Tropic_Capricorn
